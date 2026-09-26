@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Astronomy Society Portal LMS",
+  "description": "Learning management system for the Astronomy Society with video course tracks, interactive observational player, dynamic admin lesson publishing, and verifiable completion certificates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
